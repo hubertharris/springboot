@@ -1,0 +1,11 @@
+/Users/hubert/projects/kinetix-test/word-counter/src/main/java/com/example/demo1/util/AppConstant.java
+/Users/hubert/projects/kinetix-test/word-counter/src/main/java/com/example/demo1/service/WordCountService.java
+/Users/hubert/projects/kinetix-test/word-counter/src/main/java/com/example/demo1/validator/WordValidator.java
+/Users/hubert/projects/kinetix-test/word-counter/src/main/java/com/example/demo1/controller/WordCountApi.java
+/Users/hubert/projects/kinetix-test/word-counter/src/main/java/com/example/demo1/dto/ResultDto.java
+/Users/hubert/projects/kinetix-test/word-counter/src/main/java/com/example/demo1/dto/WordDto.java
+/Users/hubert/projects/kinetix-test/word-counter/src/main/java/com/example/demo1/Demo1Application.java
+/Users/hubert/projects/kinetix-test/word-counter/src/main/java/com/example/demo1/service/WordCountServiceImpl.java
+/Users/hubert/projects/kinetix-test/word-counter/src/main/java/com/example/demo1/controller/WordCountController.java
+/Users/hubert/projects/kinetix-test/word-counter/src/main/java/com/example/demo1/model/WordBucket.java
+/Users/hubert/projects/kinetix-test/word-counter/src/main/java/com/example/demo1/util/AppUrlUtil.java
